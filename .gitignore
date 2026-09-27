@@ -1,0 +1,12 @@
+# Local runs work here, not in data/
+work/
+figs/
+ctest_runs.csv
+
+# Secrets
+.env
+
+# Python and Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
