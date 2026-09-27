@@ -3,7 +3,7 @@ message: "If you use C-test ONE, please cite it as below."
 title: "C-test ONE: an LLM-referenced C-test for supraintelligence"
 type: software
 authors:
-  - name: "The C-test ONE authors"
+  - name: "Jose Hernandez-Orallo"
 version: "1.0"
 license: MIT
 repository-code: "https://github.com/jorallo/ctest-one"
