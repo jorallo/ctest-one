@@ -1,0 +1,267 @@
+Model,Lab,ECI,ECI CI low,ECI CI high,Benchmarks
+GPT-6 Astra,OpenAI,166.31,163,171.88,16
+Claude Fable 5.1,Anthropic,164.47,161.36,168.28,15
+Claude Fable 5,Anthropic,163.27,160.54,167.1,22
+Claude Opus 5,Anthropic,162.3,159.9,165.74,20
+GPT-5.5 Pro,OpenAI,162.25,159.32,165.76,10
+GPT-5.6 Sol,OpenAI,161.81,159.57,165.2,22
+GPT-5.6 Terra,OpenAI,159.14,157.01,161.84,17
+GPT-5.5,OpenAI,159.12,156.91,161.95,29
+GPT-5.4 Pro,OpenAI,158.95,156.73,161.7,10
+Claude Opus 4.8,Anthropic,158.3,156.43,160.71,24
+Kimi K3,Moonshot,157.63,155.38,160.45,19
+Gemini 3.7 Flash,Google DeepMind,157.44,155.66,159.78,15
+GPT-5.4,OpenAI,156.86,155.21,159,26
+Qwen 3.8 Max,Alibaba,156.62,154.85,158.75,11
+GPT-5.3 Codex,OpenAI,156.58,153.91,159.73,5
+Gemini 3.8 Flash,Google DeepMind,156.54,154.58,161.97,9
+Grok 4.6,xAI,156.35,154.77,158.88,18
+Claude Opus 4.7,Anthropic,156.34,154.57,158.5,25
+GPT-5.6 Luna,OpenAI,156.31,154.06,158.86,17
+Claude Sonnet 5,Anthropic,156.22,153.63,158.63,17
+Muse Spark 1.2,Meta AI,155.48,153.9,158.64,7
+DeepSeek V4 Pro 0813,DeepSeek,155.47,153.78,157.83,11
+GPT-5.2 Pro,OpenAI,155.38,153.18,158.22,5
+Claude Opus 4.6,Anthropic,155.34,153.7,157.21,27
+GLM-5.3,Z.ai (Zhipu AI),155.25,153.18,157.53,10
+Qwen3.8 Max (0902),Alibaba,155.22,153.57,157.34,6
+Gemini 3.1 Pro,Google DeepMind,155,152.72,157.6,29
+Gemini 3.5 Flash,Google DeepMind,154.69,152.78,157.03,18
+Muse Spark 1.1,Meta AI,154.62,152.58,157.88,7
+DeepSeek V4 Flash 0731,DeepSeek,154.49,152.4,156.51,15
+Gemini 3.6 Flash,Google DeepMind,154.33,152.86,156.24,15
+Grok 4.5,xAI,153.92,152.49,156.04,18
+Qwen3.7-Max,Alibaba,153.73,151.88,155.88,13
+GPT-5.2,OpenAI,153.51,151.75,155.43,26
+Gemini 3 Pro,Google DeepMind,153,151.05,155.08,23
+Claude Sonnet 4.6,Anthropic,152.25,149.69,154.47,22
+Muse Spark,Meta AI,152.12,150.27,155.59,6
+Grok 4.20,xAI,152.03,149.21,154.36,15
+GLM-5.2,Z.ai (Zhipu AI),151.86,150.21,154.16,21
+Gemini 3 Flash,Google DeepMind,151.84,150.57,153.61,22
+GLM-5.3-Flash,Z.ai (Zhipu AI),151.45,149.28,153.78,9
+Kimi K2.6,Moonshot,151,149.14,152.7,16
+GPT-5 Pro,OpenAI,150.29,148.83,152.9,7
+Inkling-Small,Thinking Machines,150.15,147.34,152.09,10
+Claude Opus 4.5,Anthropic,150.11,148.12,152.85,30
+Kimi K2.7 Code,Moonshot,150.07,148.68,151.93,12
+GPT-5,OpenAI,150,,,31
+GLM-5.1,Z.ai (Zhipu AI),149.71,147.97,151.41,11
+GPT-5.1,OpenAI,149.64,148.45,151.03,22
+Qwen 3.6 Max (Preview),Alibaba,149.27,147.69,152.44,11
+Grok 4.3 Beta,xAI,149.17,147.78,150.85,10
+DeepSeek-V4-Pro,DeepSeek,149.09,147.52,150.74,15
+GPT-5.4 Mini,OpenAI,148.96,147.33,150.68,16
+Inkling,Thinking Machines,148.64,145.95,150.6,14
+Kimi K2.5,Moonshot,148.01,146.58,149.35,18
+Qwen 3.6 Plus,Alibaba,147.67,145.74,149.56,11
+o3-pro,OpenAI,147.45,145.85,149.7,8
+Qwen3.7-Plus,Alibaba,147.41,145.92,148.83,9
+Qwen3.5 397B-A17B,Alibaba,146.96,145.43,148.62,7
+o3,OpenAI,146.91,145.23,148.66,29
+Claude Sonnet 4.5,Anthropic,146.84,145.46,148.5,27
+Qwen 3.5 Plus (hosted 397B-A17B),Alibaba,146.73,144.76,148.09,12
+MiniMax-M2.5,MiniMax,146.51,138.67,147.85,7
+Qwen3.6 27B,Alibaba,146.49,144.26,147.95,7
+MiniMax-M3,MiniMax,146.47,142.57,149.55,11
+Grok 4,xAI,146.45,144.62,148.2,20
+Nemotron 3 Ultra,NVIDIA,146.27,144.01,148.3,9
+DeepSeek-V3.2,DeepSeek,146.19,144.45,147.44,15
+DeepSeek-V4-Flash,DeepSeek,146.11,144.22,148.12,4
+GLM-5,Z.ai (Zhipu AI),145.85,144.17,147.76,13
+GPT-5.4 Nano,OpenAI,145.85,143.7,147.77,14
+MiniMax-M2.7,MiniMax,145.8,138.57,147.75,4
+Kimi K2 Thinking,Moonshot,145.76,143.25,147.14,10
+o4-mini,OpenAI,145.65,143.36,147.36,24
+GPT-5 mini,OpenAI,145.52,143.6,147.15,20
+Gemini 2.5 Pro (Jun 2025),Google DeepMind,145.26,143.82,146.79,24
+Gemini 3.5 Flash-Lite,Google DeepMind,145.13,142.76,146.76,12
+DeepSeek-V3.2-Exp,DeepSeek,145.02,142.61,147.24,8
+Qwen3.7 Flash,Alibaba,144.63,142.86,147.57,5
+Gemini 3.1 Flash-Lite,Google,144.49,142.78,146.17,10
+Grok 4 Fast,xAI,144.21,142.22,146.36,6
+Gemini 2.5 Pro (Mar 2025),Google DeepMind,144.16,142.19,147.04,12
+Claude Opus 4.1,Anthropic,144.11,142.06,145.99,20
+Qwen 3.5 Flash (hosted 35B-A3B),Alibaba,144,142.32,145.75,9
+Qwen3-235B-A22B-Thinking (Jul 2025),Alibaba,143.88,142.1,145.38,12
+Qwen 3.6 35B-A3B,Alibaba,143.86,141.79,146.13,10
+GLM-4.7,Z.ai (Zhipu AI),143.46,141.57,145.43,12
+Qwen 3.6 Flash,Alibaba,143.27,140.98,144.97,10
+Gemini 2.5 Flash (Sep 2025),Google DeepMind,142.99,139.67,146.63,4
+Claude Opus 4,Anthropic,142.68,140.74,144.27,22
+Gemma 4 31B IT,Google DeepMind,142.66,140.48,145.02,8
+Qwen3.5-35B-A3B,Alibaba,142.53,140.39,144.77,5
+GPT-5.5 Instant,OpenAI,142.5,140.25,145.35,5
+Gemini 2.5 Pro (May 2025),Google DeepMind,142.47,139.42,145.42,9
+Qwen3-Max,Alibaba,142.43,140.4,144.98,11
+Claude Haiku 4.5,Anthropic,142.37,139.8,144.07,17
+o1,OpenAI,141.86,140.15,143.11,20
+Gemma 4 26B A4B,Google DeepMind,141.86,138.61,143.65,6
+Claude Sonnet 4,Anthropic,141.69,139.18,143.08,24
+Gemini 2.5 Flash (May 2025),Google DeepMind,141.54,139.66,143.04,8
+DeepSeek-R1 (May 2025),DeepSeek,141.29,139.31,142.74,12
+Mistral Medium 3.5,Mistral AI,141.28,139.38,143.28,6
+Claude 3.7 Sonnet,Anthropic,141.16,139.15,142.7,21
+GLM-4.6,"Z.ai (Zhipu AI), Tsinghua University",140.78,135.2,142.57,4
+Gemini 2.5 Flash (Jun 2025),Google DeepMind,140.53,138.48,141.94,8
+o3-mini,OpenAI,140.35,137.21,141.89,20
+Grok-3 mini,xAI,140.35,138.05,142.03,10
+Kimi K2 (Jul 2025),Moonshot,140.11,137.03,141.99,7
+gpt-oss-120b,OpenAI,140.1,136.28,142.7,15
+Gemini 2.5 Flash (Apr 2025),Google DeepMind,139.97,135.94,142.06,9
+DeepSeek-V3.1,DeepSeek,139.92,136.28,143.28,5
+Qwen3-30B-A3B-Thinking (Jul 2025),Alibaba,139.64,135.51,141.17,5
+Qwen3.5-9B,Alibaba,139.44,136.67,141.53,6
+GPT-5 nano,OpenAI,139.39,135.2,141.56,17
+Qwen3-235B-A22B,Alibaba,139.35,136.34,140.95,9
+DeepSeek-R1,DeepSeek,138.97,136.9,140.47,12
+Qwen3-235B-A22B-Instruct (Jul 2025),Alibaba,138.92,135.97,140.87,7
+Qwen3-32B,Alibaba,138.51,135.04,140.45,7
+Grok 3,xAI,138.3,135.93,139.83,14
+Qwen3-14B,Alibaba,138.24,133.78,139.91,6
+gpt-oss-20b,OpenAI,137.8,133.26,139.73,7
+QwQ-32B,Alibaba,137.6,132.9,141.53,6
+DeepSeek-R1-Distill-Qwen-32B,DeepSeek,137.42,131.53,138.84,4
+Qwen3-30B-A3B-Instruct (Jul 2025),Alibaba,137.42,131.98,139.5,5
+GPT-4.1,OpenAI,136.8,134.37,138.51,19
+GPT-4.5,OpenAI,136.75,134.26,138.84,13
+Qwen3-30B-A3B,Alibaba,136.19,130.67,138.63,8
+Qwen3-8B,Alibaba,136.18,130.64,138.29,6
+DeepSeek-V3 (Mar 2025),DeepSeek,135.95,133.32,137.9,11
+o1-mini,OpenAI,135.82,132.6,137.28,11
+DeepSeek-R1-Distill-Qwen-14B,DeepSeek,135.43,127.32,138.15,4
+Gemini 2.0 Flash Thinking (Jan 2025),"Google DeepMind, Google",135.37,130.54,138.06,7
+Gemini 2.0 Pro,Google DeepMind,135.06,132,136.72,4
+GPT-4.1 mini,OpenAI,135.02,131.78,136.65,15
+o1-preview,OpenAI,134.78,131.38,138.44,8
+Gemini 2.0 Flash (Dec 2024),"Google DeepMind, Google",134.71,124.75,136.67,4
+Gemini 2.0 Flash (Feb 2025),"Google DeepMind, Google",134.69,132.02,136.71,11
+Mistral Medium 3,Mistral AI,134.07,130.83,135.56,7
+Gemini 2.5 Flash-Lite (Jun 2025),Google DeepMind,133.93,130.93,136.34,4
+Claude 3.5 Sonnet (October 2024),Anthropic,133.55,129.7,138.29,19
+Magistral Small 1.0,Mistral AI,133.19,130.02,134.49,4
+Qwen2.5-Max,Alibaba,132.53,129.09,135.74,7
+DeepSeek-V3,DeepSeek,132.35,128.55,135.57,14
+Llama 4 Maverick,Meta AI,132.2,128.7,134.05,15
+Mistral Small 3.2,Mistral AI,131.74,126.94,133.88,4
+Gemini 1.5 Pro (Sept 2024),Google DeepMind,131.73,128.47,133.31,12
+Magistral Small 1.2,Mistral AI,131.41,127.11,133.67,4
+Grok-2 (Dec 2024),xAI,130.48,126.21,132.43,8
+Phi-4,Microsoft Research,130.42,125.56,132.22,7
+Gemma 3 27B,Google DeepMind,130.03,125.11,132.2,10
+Claude 3.5 Sonnet,Anthropic,130,,,12
+Llama 4 Scout,Meta AI,129.64,125.22,131.37,9
+GPT-4.1 nano,OpenAI,129.63,124.26,131.97,12
+Gemini 1.5 Flash (Sep 2024),Google DeepMind,129.36,124.24,131.19,10
+Qwen2.5-72B,Alibaba,129,124.2,130.83,18
+GPT-4o (May 2024),OpenAI,128.97,125.32,131.55,8
+GPT-4o (Nov 2024),OpenAI,128.81,124.89,131.18,20
+GPT-4o (Aug 2024),OpenAI,128.77,124.75,131.04,11
+Llama 3.1-405B,Meta AI,128.75,124.83,130.75,15
+Qwen2.5-32B,Alibaba,128.52,123.46,130.17,4
+Mistral Large 2 (Nov 2024),Mistral AI,128.52,124.64,130.68,5
+Mistral Large 2 (Jul 2024),Mistral AI,127.54,123.38,129.87,7
+Mistral Small 3.1,Mistral AI,127.48,123.58,129.41,5
+Llama 3.3 70B,Meta AI,127.32,123.07,129.81,10
+GPT-4 Turbo (Apr 2024),OpenAI,127.25,123.32,128.87,9
+Claude 3.5 Haiku,Anthropic,127.15,120.88,129.73,12
+Mistral Small 3,Mistral AI,127.07,122.77,129.11,4
+Claude 3 Opus,Anthropic,126.91,123.2,130.09,13
+Gemini 1.5 Pro (May 2024),Google DeepMind,126.9,122.76,129.18,6
+GPT-4o mini,OpenAI,126.56,121.04,128.51,20
+GPT-4 Turbo (Nov 2023),OpenAI,126.45,122.53,129.06,6
+Llama 3.1-70B,Meta AI,125.91,121.49,128.4,9
+GPT-4 (Mar 2023),OpenAI,125.89,120.86,130.92,7
+Llama 3.2 90B,Meta AI,125.5,120.84,127.41,6
+Qwen2-72B,Alibaba,125.27,120.23,126.96,6
+"DeepSeek-V2 (MoE-236B, May 2024)",DeepSeek,124.77,119.95,127.8,7
+Amazon Nova Pro,Amazon,123.77,109.93,126.64,4
+Gemma 3 12B,Google DeepMind,123.46,115.68,129.29,5
+GPT-4 (Jun 2023),OpenAI,123.1,117.33,126.96,13
+Llama 3-70B,Meta AI,122.91,118.22,125.97,7
+Gemini 1.5 Flash (May 2024),Google DeepMind,122.57,117.47,124.66,6
+Gemma 2 27B,Google DeepMind,122.05,116,124.19,6
+Mixtral 8x22B,Mistral AI,122,115.9,124.51,6
+Mistral Large,Mistral AI,122,115.45,124.63,5
+phi-3-small 7.4B,Microsoft,121.8,116.07,124.75,8
+phi-3-medium 14B,Microsoft,121.19,115.62,124.27,10
+Claude 3 Sonnet,Anthropic,120.68,113.41,124.15,7
+Claude Instant,Anthropic,120.2,114.06,122.84,5
+Claude 2,Anthropic,120.09,114.65,123.88,6
+Gemma 2 9B,Google DeepMind,119.79,112.51,122.42,6
+Qwen2.5-Coder-32B,Alibaba,119.42,110.95,124.94,5
+Command R+,"Cohere, Cohere Labs (formerly Cohere for AI)",119.25,111.34,125.27,4
+Claude 2.1,Anthropic,119.22,113.09,122.07,5
+Mistral NeMo,Mistral AI,118.64,112.08,121.77,6
+GPT-3.5 Turbo (Nov 2023),OpenAI,118.49,109.97,121.66,8
+Qwen2.5-7B,Alibaba,118.44,111.37,121.21,7
+Mixtral 8x7B,Mistral AI,118.4,112.43,121.19,12
+Claude 3 Haiku,Anthropic,118.3,112.27,121.43,10
+Ministral 3B,Mistral AI,118.06,106.88,121.5,4
+Yi-34B,01.AI,117.3,110.2,120.62,5
+phi-3-mini 3.8B,Microsoft,117.25,108.88,121.19,9
+Stable Beluga 2,Stability AI,117,110.4,120.04,7
+Gemini 1.0 Pro,Google DeepMind,116.97,111.28,119.91,5
+Llama 3.1-8B,Meta AI,116.5,107.07,121.8,11
+Llama 3-8B,Meta AI,116.35,109,119.28,11
+Qwen2.5-Coder-14B,Other,116.28,107.63,122.1,5
+Gemma 3 4B,Google DeepMind,115.97,97.92,123.7,5
+GPT-3.5 Turbo (Jan 2024),OpenAI,115.61,109.31,119.09,10
+PaLM 2-L,Other,114.88,107.94,128.04,4
+Llama 2-70B,Meta AI,113.63,107.1,117.47,14
+GPT-3.5 Turbo (Jun 2023),OpenAI,113.19,105.86,118.59,4
+Qwen2.5-Coder (7B),Alibaba,112.97,103.06,119.27,5
+Qwen-14B,Alibaba,112.85,104.94,117.63,6
+Mistral 7B v0.1,Mistral AI,112.02,105.4,116.2,10
+Falcon-180B,Technology Innovation Institute,111.94,104.28,118.9,8
+internlm-20b,Other,111.89,104.33,116.15,6
+Gemma 7B,Google DeepMind,111.79,104.47,116.73,10
+DeepSeek LLM 67B,DeepSeek,110.56,94.72,117.04,4
+LLaMA-65B,Meta AI,109.94,102.38,114.19,10
+Falcon 2 11B,Technology Innovation Institute,109.32,102.33,115.66,4
+Mistral 7B v0.3,Mistral AI,108.78,98.81,112.63,6
+DeepSeek-Coder-V2-Lite-Base,Other,108.64,100.76,113.71,4
+PaLM 2-M,Other,108.04,100.36,116.54,5
+Phi-2,Microsoft,107.69,86.08,112.67,8
+Qwen2.5-Coder-3B,Other,107.48,94.58,114.98,4
+Nemotron-4 15B,NVIDIA,107.45,100.02,113.16,7
+Yi-9B,Other,107.35,98.96,115.54,4
+LLaMA-33B,Meta AI,107.14,99.12,111.49,10
+Qwen-7B,Alibaba,106.55,97.18,112.2,6
+Llama 2-13B,Meta AI,105.88,97.93,111.08,13
+PaLM 2-S,Other,105.88,96.89,114.47,5
+Llama 2-34B,Meta AI,104.9,96.63,110.21,8
+StarCoder 2 15B,"Hugging Face, ServiceNow, NVIDIA, BigCode",104.7,94.66,111.42,4
+Yi 6B,01.AI,104.46,96.4,109.77,6
+Falcon-40B,Technology Innovation Institute,104.13,96.13,109.74,10
+Baichuan2-13B,Baichuan,102.86,92.28,109.77,7
+Qwen2.5-Coder (1.5B),Alibaba,102.66,87.49,110.49,5
+internlm-7b,Other,102.53,93.35,108.96,7
+Llama 3.2 1B,Meta AI,102.43,92.05,113.95,4
+INTELLECT-1,"Prime Intellect, Hugging Face, Arcee AI",100.49,90.54,106.31,6
+MPT-30B,MosaicML,100.28,91.03,106.26,8
+LLaMA-13B,Meta AI,100.2,90.99,106.42,11
+Llama 2-7B,Meta AI,98.66,89.15,104.53,12
+chatglm2-6b,Other,98.53,80.7,105.99,7
+LLaMA-7B,Meta AI,96.25,86.62,103.51,11
+Baichuan 2-7B,Baichuan,95.88,85.35,104.45,6
+DeepSeek Coder 33B,"DeepSeek, Peking University",95.87,83.8,103.31,4
+Falcon-7B,Technology Innovation Institute,94.63,83.39,102.26,10
+CodeQwen1.5-7B,Other,94.38,80.91,103.33,4
+vicuna-13b-v1.1,Other,94.19,81.5,102.35,7
+MPT-7B,MosaicML,94.11,82.85,101.31,10
+Gemma 2B,Google DeepMind,93.72,83.4,100.44,8
+StarCoder 2 7B,"Hugging Face, ServiceNow, NVIDIA, BigCode",93.06,79.66,101.53,4
+XGen-7B,Salesforce,92.9,82.02,100.1,6
+Qwen-1_8B,Other,92.43,72.31,101.42,6
+open_llama_7b,Other,91.12,78.31,98.94,6
+Phi-1.5,Microsoft,90.99,69.51,100.73,5
+Baichuan1-7B,Baichuan,89.92,78.81,98.42,4
+RedPajama-INCITE-7B-Base,Other,89.87,77.76,97.7,6
+Dolly 2.0-12b,Databricks,89.11,74.2,97.44,6
+DeepSeek Coder 6.7B,"DeepSeek, Peking University",89.05,76.34,97.47,4
+StarCoder 2 3B,"Hugging Face, ServiceNow, NVIDIA, BigCode",88.18,74.45,97.14,4
+Qwen2.5-Coder-0.5B,Other,87.56,63.11,101,5
+Cerebras-GPT-13B,Cerebras Systems,82.57,68.78,91.55,6
+DeepSeek Coder 1.3B,"DeepSeek, Peking University",62.54,47.12,77.27,4
+stablelm-tuned-alpha-7b,Other,54.64,35.01,70.6,5

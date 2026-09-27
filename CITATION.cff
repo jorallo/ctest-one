@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use C-test ONE, please cite it as below."
+title: "C-test ONE: an LLM-referenced C-test for supraintelligence"
+type: software
+authors:
+  - name: "The C-test ONE authors"
+version: "1.0"
+license: MIT
+repository-code: "https://github.com/jorallo/ctest-one"
+preferred-citation:
+  type: article
+  title: "An LLM-referenced C-test for supraintelligence"
+  authors:
+    - name: "The C-test ONE authors"
+  year: 2026

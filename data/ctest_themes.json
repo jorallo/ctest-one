@@ -1,0 +1,5048 @@
+{
+ "_README": "Themes, with a used flag.",
+ "themes": [
+  {
+   "theme": "standard primary colors",
+   "domain": "art",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "red",
+    "blue",
+    "yellow"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "beaufort wind force scale",
+   "domain": "meteorology",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "force 0",
+    "force 1",
+    "force 2"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "mohs mineral hardness scale",
+   "domain": "geology",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "karate belt ranking order",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "white belt",
+    "yellow belt",
+    "orange belt"
+   ]
+  },
+  {
+   "theme": "standard poker hand ranks",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "high card",
+    "pair",
+    "three of a kind"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "sandpaper grit size gradations",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "60 grit",
+    "100 grit",
+    "220 grit"
+   ]
+  },
+  {
+   "theme": "canonical hours of prayer",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "matins",
+    "lauds",
+    "vespers"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "the english alphabet",
+   "domain": "language",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "A",
+    "B",
+    "C"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "standard yarn weight categories",
+   "domain": "crafts",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "0 lace",
+    "1 super fine",
+    "2 fine"
+   ]
+  },
+  {
+   "theme": "single digit odd numbers",
+   "domain": "mathematics",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "3",
+    "5"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "traditional wedding anniversary gifts",
+   "domain": "folklore",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "paper",
+    "cotton",
+    "leather"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "stations of the cross",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st station",
+    "2nd station",
+    "3rd station"
+   ]
+  },
+  {
+   "theme": "twelve labors of hercules",
+   "domain": "mythology",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Nemean lion",
+    "Lernaean Hydra",
+    "Ceryneian Hind"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "culinary knife cut sizes",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "julienne",
+    "brunoise",
+    "batonnet"
+   ]
+  },
+  {
+   "theme": "standard egg weight gradings",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "small",
+    "medium",
+    "large"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "thirty two compass points",
+   "domain": "navigation",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "North",
+    "North by East",
+    "North-Northeast"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "twelve days of christmas",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "first day",
+    "second day",
+    "third day"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "days of the week",
+   "domain": "chronology",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Monday",
+    "Tuesday",
+    "Wednesday"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "united states presidential succession",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Vice President",
+    "Speaker of the House",
+    "President pro tempore"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "standard golf scoring terms",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "eagle",
+    "birdie",
+    "par"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "french wine sweetness levels",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Brut",
+    "Sec",
+    "Demi-Sec"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "embroidery thread strand counts",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 strand",
+    "2 strands",
+    "3 strands"
+   ]
+  },
+  {
+   "theme": "fibonacci sequence term values",
+   "domain": "mathematics",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "0",
+    "1",
+    "2"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "musical tempo marking names",
+   "domain": "music",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Adagio",
+    "Allegro",
+    "Presto"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "months of the year",
+   "domain": "chronology",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "January",
+    "February",
+    "March"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "lunar phases in cycle",
+   "domain": "astronomy",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "new moon",
+    "first quarter",
+    "full moon"
+   ],
+   "uses": 2
+  },
+  {
+   "theme": "roman numeral place values",
+   "domain": "notation",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "10",
+    "100"
+   ]
+  },
+  {
+   "theme": "classical architectural column orders",
+   "domain": "architecture",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Doric",
+    "Ionic",
+    "Corinthian"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "chinese zodiac animal signs",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "rat",
+    "ox",
+    "tiger"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "standard drill bit sizes",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1/16 in",
+    "1/8 in",
+    "1/4 in"
+   ]
+  },
+  {
+   "theme": "prime numbers",
+   "domain": "math",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2",
+    "3",
+    "5"
+   ]
+  },
+  {
+   "theme": "powers of two",
+   "domain": "math",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2",
+    "4",
+    "8"
+   ]
+  },
+  {
+   "theme": "natural counting numbers",
+   "domain": "math",
+   "generative": true,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "chess piece point values",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "3",
+    "5"
+   ]
+  },
+  {
+   "theme": "mahjong suit tile numbers",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "scrabble letter point values",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "christian liturgical season colors",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "purple",
+    "white",
+    "green"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "ten commandments traditional order",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "first",
+    "second",
+    "third"
+   ]
+  },
+  {
+   "theme": "olympic medal rank order",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "first",
+    "second",
+    "third"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "sumo wrestling division ranks",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Makuuchi",
+    "Juryo",
+    "Makushita"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "american wire gauge sizes",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "0000",
+    "10",
+    "36"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "architectural drawing scale ratios",
+   "domain": "crafts",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1:100",
+    "1:50",
+    "1:20"
+   ]
+  },
+  {
+   "theme": "knitting needle metric sizes",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "4 mm",
+    "5 mm",
+    "6 mm"
+   ]
+  },
+  {
+   "theme": "tailor seam allowance widths",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1/4 in",
+    "1/2 in",
+    "5/8 in"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "coffee roast level gradations",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "light",
+    "medium",
+    "dark"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "scoville chili heat ratings",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1000 SHU",
+    "5000 SHU",
+    "50000 SHU"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "candy sugar stage temperatures",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "235 \u00b0F",
+    "245 \u00b0F",
+    "270 \u00b0F"
+   ]
+  },
+  {
+   "theme": "usda soil texture classes",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "sand",
+    "silt",
+    "clay"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "bovine milk fat percentages",
+   "domain": "farming",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1%",
+    "2%",
+    "3.25%"
+   ]
+  },
+  {
+   "theme": "international maritime signal flags",
+   "domain": "navigation",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Alpha",
+    "Bravo",
+    "Charlie"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "traffic light signal sequence",
+   "domain": "navigation",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "red",
+    "yellow",
+    "green"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "goldilocks porridge temperature order",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "too hot",
+    "too cold",
+    "just right"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "solomon grundy weekday events",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "born",
+    "christened",
+    "married"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "three little pigs building materials",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "straw",
+    "sticks",
+    "bricks"
+   ]
+  },
+  {
+   "theme": "hickory dickory dock hours",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "united states court hierarchy",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "district court",
+    "court of appeals",
+    "supreme court"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "british peerage rank order",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "duke",
+    "marquess",
+    "earl"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "stellar spectral classification letters",
+   "domain": "astronomy",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "O",
+    "B",
+    "A"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "school grade year levels",
+   "domain": "education",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st grade",
+    "2nd grade",
+    "3rd grade"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "atomic numbers of elements",
+   "domain": "chemistry",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "6"
+   ]
+  },
+  {
+   "theme": "polygon side counts",
+   "domain": "geometry",
+   "generative": true,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "3",
+    "4",
+    "5"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "frog metamorphosis stages",
+   "domain": "biology",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "egg",
+    "tadpole",
+    "adult"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "baseball field position numbers",
+   "domain": "sport",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "cardinal direction points",
+   "domain": "navigation",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "north",
+    "east",
+    "south"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "this old man rhyming targets",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "thumb",
+    "shoe",
+    "knee"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "five little monkeys countdown",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "5",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "theme": "dartboard segment scores",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "20",
+    "19",
+    "18"
+   ]
+  },
+  {
+   "theme": "monopoly property rent sequence",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "$2",
+    "$4",
+    "$6"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "primal beef cut locations",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "chuck",
+    "rib",
+    "loin"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "beer bitterness ibu ratings",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "20 IBU",
+    "30 IBU",
+    "40 IBU"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "michelin star tier levels",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 star",
+    "2 stars",
+    "3 stars"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "weaving reed dent spacing",
+   "domain": "crafts",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "8 dent",
+    "10 dent",
+    "12 dent"
+   ]
+  },
+  {
+   "theme": "leather thickness in ounces",
+   "domain": "crafts",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2 oz",
+    "3 oz",
+    "4 oz"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "buddhist eightfold path steps",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "right view",
+    "right intention",
+    "right speech"
+   ]
+  },
+  {
+   "theme": "islamic daily prayer sequence",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Fajr",
+    "Dhuhr",
+    "Asr"
+   ]
+  },
+  {
+   "theme": "hindu yuga cosmic epochs",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Satya Yuga",
+    "Treta Yuga",
+    "Dvapara Yuga"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "boxing weight division limits",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "112 lbs",
+    "126 lbs",
+    "135 lbs"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "rowing boat seat numbers",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "rebar diameter designation numbers",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "#3",
+    "#4",
+    "#5"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "lumber nominal thickness dimensions",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 inch",
+    "2 inches",
+    "4 inches"
+   ]
+  },
+  {
+   "theme": "plumbing pipe schedule ratings",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "Schedule 40",
+    "Schedule 80",
+    "Schedule 160"
+   ]
+  },
+  {
+   "theme": "us constitutional amendment numbers",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st",
+    "2nd",
+    "3rd"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "felony severity degree levels",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st degree",
+    "2nd degree",
+    "3rd degree"
+   ]
+  },
+  {
+   "theme": "statute of limitations year counts",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2 years",
+    "3 years",
+    "5 years"
+   ]
+  },
+  {
+   "theme": "crop rotation field sequence",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "legumes",
+    "root crops",
+    "cereals"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "chicken egg incubation days",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "12",
+    "21"
+   ]
+  },
+  {
+   "theme": "soil horizon layer letters",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "A",
+    "B",
+    "C"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "nautical chart depth soundings",
+   "domain": "navigation",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "5 m",
+    "12 m",
+    "30 m"
+   ]
+  },
+  {
+   "theme": "buoyage system channel progression",
+   "domain": "navigation",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "buoy 1",
+    "buoy 2",
+    "buoy 3"
+   ]
+  },
+  {
+   "theme": "double letter word chain",
+   "domain": "rhymes",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "book",
+    "keen",
+    "noon"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "airport runway magnetic headings",
+   "domain": "navigation",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "09",
+    "18",
+    "27"
+   ]
+  },
+  {
+   "theme": "biblical creation day events",
+   "domain": "theology",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "light",
+    "sky",
+    "dry land"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "wood screw diameter sizes",
+   "domain": "crafts",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "#4",
+    "#6",
+    "#8"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "candy cooking temperature stages",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "thread",
+    "soft ball",
+    "hard crack"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "beer international bitterness units",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "15 IBU",
+    "30 IBU",
+    "50 IBU"
+   ]
+  },
+  {
+   "theme": "decathlon event order",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st",
+    "2nd",
+    "3rd"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "archery target ring points",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "8 points",
+    "9 points",
+    "10 points"
+   ]
+  },
+  {
+   "theme": "snooker ball point values",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 point",
+    "2 points",
+    "7 points"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "chess move ply counts",
+   "domain": "games",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 ply",
+    "2 plies",
+    "3 plies"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "bridge card game suit rank",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "clubs",
+    "diamonds",
+    "hearts"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "crop rotation sequence stages",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "stage 1",
+    "stage 2",
+    "stage 3"
+   ]
+  },
+  {
+   "theme": "tree ring annual counts",
+   "domain": "forestry",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "10 rings",
+    "20 rings",
+    "50 rings"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "fabric thread count ratings",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "200 TC",
+    "400 TC",
+    "600 TC"
+   ]
+  },
+  {
+   "theme": "brick masonry course levels",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "course 1",
+    "course 2",
+    "course 3"
+   ]
+  },
+  {
+   "theme": "plywood veneer quality grades",
+   "domain": "trades",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "A grade",
+    "B grade",
+    "C grade"
+   ],
+   "uses": 2
+  },
+  {
+   "theme": "seasons of the year",
+   "domain": "calendar",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "spring",
+    "summer",
+    "autumn"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "solfege pitch syllable scale",
+   "domain": "music",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "do",
+    "re",
+    "mi"
+   ]
+  },
+  {
+   "theme": "circle of fifths keys",
+   "domain": "music",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "C major",
+    "G major",
+    "D major"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "rainbow color spectrum order",
+   "domain": "optics",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "red",
+    "orange",
+    "yellow"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "the three bears sizes",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "great big",
+    "middle-sized",
+    "small"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "this little piggy toes",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "market",
+    "stayed home",
+    "roast beef"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "finger names on hand",
+   "domain": "anatomy",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "thumb",
+    "index",
+    "middle"
+   ]
+  },
+  {
+   "theme": "ph scale acidity levels",
+   "domain": "chemistry",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "pH 3",
+    "pH 7",
+    "pH 10"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "saffir-simpson hurricane categories",
+   "domain": "meteorology",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "Category 1",
+    "Category 2",
+    "Category 3"
+   ]
+  },
+  {
+   "theme": "dartboard wedge score values",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "20",
+    "18"
+   ]
+  },
+  {
+   "theme": "bowling frame cumulative scores",
+   "domain": "games",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "10",
+    "20",
+    "30"
+   ]
+  },
+  {
+   "theme": "karate belt color ranks",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "white belt",
+    "yellow belt",
+    "orange belt"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "marathon kilometer mark sequence",
+   "domain": "sport",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 km",
+    "2 km",
+    "3 km"
+   ]
+  },
+  {
+   "theme": "decathlon event competition schedule",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "100 meters",
+    "long jump",
+    "shot put"
+   ]
+  },
+  {
+   "theme": "pottery clay firing temperatures",
+   "domain": "crafts",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "cone 06",
+    "cone 04",
+    "cone 6"
+   ]
+  },
+  {
+   "theme": "wine bottle volume designations",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Split",
+    "Standard",
+    "Magnum"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "tea steeping time durations",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2 minutes",
+    "3 minutes",
+    "5 minutes"
+   ]
+  },
+  {
+   "theme": "snow white dwarf names",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Doc",
+    "Grumpy",
+    "Happy"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "billy goats gruff size order",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Little",
+    "Middle",
+    "Big"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "patent protection year durations",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "14 years",
+    "15 years",
+    "20 years"
+   ]
+  },
+  {
+   "theme": "crop rotation plot years",
+   "domain": "farming",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "Year 1",
+    "Year 2",
+    "Year 3"
+   ]
+  },
+  {
+   "theme": "garment care iron temperature dots",
+   "domain": "textiles",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 dot",
+    "2 dots",
+    "3 dots"
+   ]
+  },
+  {
+   "theme": "denim fabric weight ounces",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "12 oz",
+    "14 oz",
+    "16 oz"
+   ]
+  },
+  {
+   "theme": "buoy flash pattern intervals",
+   "domain": "navigation",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2 seconds",
+    "5 seconds",
+    "10 seconds"
+   ]
+  },
+  {
+   "theme": "circle of fifths key signatures",
+   "domain": "music",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "C major",
+    "G major",
+    "D major"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "lego brick stud counts",
+   "domain": "toys",
+   "generative": true,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2 studs",
+    "4 studs",
+    "8 studs"
+   ]
+  },
+  {
+   "theme": "crayola crayon box count sizes",
+   "domain": "toys",
+   "generative": true,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "8 count",
+    "24 count",
+    "64 count"
+   ]
+  },
+  {
+   "theme": "planets distance from sun",
+   "domain": "astronomy",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "0.39 AU",
+    "0.72 AU",
+    "1.00 AU"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "butterfly life cycle stages",
+   "domain": "nature",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "egg",
+    "caterpillar",
+    "chrysalis"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "ten in the bed countdown",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "10",
+    "9",
+    "8"
+   ],
+   "uses": 2
+  },
+  {
+   "theme": "three billy goats gruff sizes",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "little",
+    "middle",
+    "great"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "crochet hook letter designations",
+   "domain": "crafts",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "B",
+    "C",
+    "D"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "sugar syrup cooking temperature stages",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "soft ball",
+    "hard ball",
+    "soft crack"
+   ]
+  },
+  {
+   "theme": "french kitchen brigade hierarchy ranks",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "chef de cuisine",
+    "sous chef",
+    "chef de partie"
+   ]
+  },
+  {
+   "theme": "monopoly board property space order",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st",
+    "2nd",
+    "3rd"
+   ]
+  },
+  {
+   "theme": "backgammon board point numbers",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "point 1",
+    "point 2",
+    "point 3"
+   ]
+  },
+  {
+   "theme": "archery target ring point values",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "10 points",
+    "9 points",
+    "8 points"
+   ]
+  },
+  {
+   "theme": "marathon kilometer milestone markers",
+   "domain": "sport",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "5 km",
+    "10 km",
+    "15 km"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "american wire gauge size numbers",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "0000 AWG",
+    "36 AWG",
+    "24 AWG"
+   ]
+  },
+  {
+   "theme": "brick course vertical height measurements",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "75 mm",
+    "150 mm",
+    "225 mm"
+   ]
+  },
+  {
+   "theme": "shoe sizing paris point scale",
+   "domain": "apparel",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "37 Paris points",
+    "38 Paris points",
+    "39 Paris points"
+   ]
+  },
+  {
+   "theme": "united kingdom peerage rank order",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Duke",
+    "Marquess",
+    "Earl"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "felony class severity grades",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Class A",
+    "Class B",
+    "Class C"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "sheep fleece quality wool counts",
+   "domain": "farming",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "64s",
+    "70s",
+    "80s"
+   ]
+  },
+  {
+   "theme": "maritime signal flag pennant sequence",
+   "domain": "navigation",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "pennant 1",
+    "pennant 2",
+    "pennant 3"
+   ]
+  },
+  {
+   "theme": "catholic holy orders clergy ranks",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "deacon",
+    "priest",
+    "bishop"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "st ives riddle accumulative counts",
+   "domain": "rhymes",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 man",
+    "7 wives",
+    "49 sacks"
+   ]
+  },
+  {
+   "theme": "camera lens f stop values",
+   "domain": "photography",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "f/1.4",
+    "f/2",
+    "f/2.8"
+   ]
+  },
+  {
+   "theme": "mohs hardness scale benchmark minerals",
+   "domain": "geology",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "talc",
+    "gypsum",
+    "calcite"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "baking baker's percentage ratios",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "100%",
+    "60%",
+    "2%"
+   ]
+  },
+  {
+   "theme": "espresso shot extraction times",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "25 s",
+    "30 s",
+    "35 s"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "meat doneness internal temperatures",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "130 \u00b0F",
+    "140 \u00b0F",
+    "160 \u00b0F"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "ten green bottles countdown",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "10 green bottles",
+    "9 green bottles",
+    "8 green bottles"
+   ]
+  },
+  {
+   "theme": "taekwondo belt rank colors",
+   "domain": "sport",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "white",
+    "yellow",
+    "green"
+   ]
+  },
+  {
+   "theme": "bowling frame pin counts",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "0",
+    "5",
+    "10"
+   ]
+  },
+  {
+   "theme": "plimsoll line draft marks",
+   "domain": "navigation",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Tropical",
+    "Summer",
+    "Winter"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "nautical depth fathom counts",
+   "domain": "navigation",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 fathom",
+    "2 fathoms",
+    "3 fathoms"
+   ]
+  },
+  {
+   "theme": "standard timber nominal dimensions",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2x4 in",
+    "2x6 in",
+    "4x4 in"
+   ]
+  },
+  {
+   "theme": "speedometer speed increment values",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "20 mph",
+    "40 mph",
+    "60 mph"
+   ]
+  },
+  {
+   "theme": "uk prison security categories",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Category A",
+    "Category B",
+    "Category C"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "earthquake richter magnitude scale",
+   "domain": "geology",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "3.0",
+    "4.0",
+    "5.0"
+   ]
+  },
+  {
+   "theme": "moon phase lunar cycle",
+   "domain": "astronomy",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "new moon",
+    "first quarter",
+    "full moon"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "fibonacci sequence numbers",
+   "domain": "mathematics",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "factorial value multiplication steps",
+   "domain": "mathematics",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "norse myth nine realms",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Asgard",
+    "Midgard",
+    "Jotunheim"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "circle of fifths keynotes",
+   "domain": "music",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "C",
+    "G",
+    "D"
+   ]
+  },
+  {
+   "theme": "standard piano key frequencies",
+   "domain": "music",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "261.63 Hz",
+    "440 Hz",
+    "880 Hz"
+   ]
+  },
+  {
+   "theme": "basketball shot point values",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 point",
+    "2 points",
+    "3 points"
+   ]
+  },
+  {
+   "theme": "maritime buoy channel mark numbers",
+   "domain": "navigation",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "ship deck hierarchy levels",
+   "domain": "navigation",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st deck",
+    "2nd deck",
+    "3rd deck"
+   ]
+  },
+  {
+   "theme": "snakes and ladders board numbers",
+   "domain": "games",
+   "generative": false,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "50",
+    "100"
+   ]
+  },
+  {
+   "theme": "crochet stitch height order",
+   "domain": "crafts",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "single crochet",
+    "double crochet",
+    "treble crochet"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "espresso beverage milk ratios",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1:1",
+    "1:2",
+    "1:3"
+   ]
+  },
+  {
+   "theme": "soft boiled egg cooking minutes",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "4 min",
+    "5 min",
+    "6 min"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "michelin star restaurant ratings",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 star",
+    "2 stars",
+    "3 stars"
+   ]
+  },
+  {
+   "theme": "liturgical church calendar seasons",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Advent",
+    "Lent",
+    "Easter"
+   ]
+  },
+  {
+   "theme": "track and field hurdle heights",
+   "domain": "sport",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "30 in",
+    "33 in",
+    "36 in"
+   ]
+  },
+  {
+   "theme": "bowling pin position numbers",
+   "domain": "sport",
+   "generative": false,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "7",
+    "10"
+   ]
+  },
+  {
+   "theme": "plumbing copper pipe diameters",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1/2 in",
+    "3/4 in",
+    "1 in"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "felony crime severity degrees",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "first degree",
+    "second degree",
+    "third degree"
+   ]
+  },
+  {
+   "theme": "parliamentary bill reading stages",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "first reading",
+    "second reading",
+    "third reading"
+   ]
+  },
+  {
+   "theme": "tractor power take off speeds",
+   "domain": "farming",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "540 rpm",
+    "750 rpm",
+    "1000 rpm"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "sewing machine needle sizes",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "70/10",
+    "80/12",
+    "90/14"
+   ]
+  },
+  {
+   "theme": "wheels on the bus actions",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "go round and round",
+    "swish swish swish",
+    "beep beep beep"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "woven fabric thread counts",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "200",
+    "400",
+    "800"
+   ]
+  },
+  {
+   "theme": "primal beef cut sections",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "chuck",
+    "rib",
+    "loin"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "espresso coffee roast levels",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "light",
+    "medium",
+    "dark"
+   ]
+  },
+  {
+   "theme": "farm tractor horsepower ratings",
+   "domain": "farming",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "50",
+    "100",
+    "150"
+   ]
+  },
+  {
+   "theme": "liturgical church vestment colors",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "white",
+    "green",
+    "purple"
+   ]
+  },
+  {
+   "theme": "ten biblical plagues order",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "first",
+    "second",
+    "third"
+   ]
+  },
+  {
+   "theme": "international phone calling codes",
+   "domain": "telecom",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "44",
+    "33"
+   ]
+  },
+  {
+   "theme": "copyright duration year counts",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "50",
+    "70",
+    "95"
+   ]
+  },
+  {
+   "theme": "glass bead millimeter diameters",
+   "domain": "crafts",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2",
+    "4",
+    "6"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "espresso roast level darkness",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "light",
+    "medium",
+    "dark"
+   ]
+  },
+  {
+   "theme": "climbing route difficulty grades",
+   "domain": "sport",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "5.8",
+    "5.9",
+    "5.10"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "bowling frame scoring order",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "catholic holy orders hierarchy",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "deacon",
+    "priest",
+    "bishop"
+   ]
+  },
+  {
+   "theme": "pipe thread national sizes",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1/4 in",
+    "1/2 in",
+    "3/4 in"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "lighthouse flash sequence intervals",
+   "domain": "navigation",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "5 s",
+    "10 s",
+    "15 s"
+   ]
+  },
+  {
+   "theme": "patent claim dependent numbers",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "claim 2",
+    "claim 3",
+    "claim 4"
+   ]
+  },
+  {
+   "theme": "beekeeping frame super depths",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "shallow",
+    "medium",
+    "deep"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "tractor rim size inches",
+   "domain": "farming",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "24 in",
+    "28 in",
+    "38 in"
+   ]
+  },
+  {
+   "theme": "silk fabric momme weights",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "16 mm",
+    "19 mm",
+    "22 mm"
+   ]
+  },
+  {
+   "theme": "building story elevation heights",
+   "domain": "architecture",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "10 ft",
+    "20 ft",
+    "30 ft"
+   ]
+  },
+  {
+   "theme": "orchestral score instrument placement",
+   "domain": "music",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "woodwinds",
+    "brass",
+    "percussion"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "runway magnetic heading numbers",
+   "domain": "aviation",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "09",
+    "18",
+    "36"
+   ]
+  },
+  {
+   "theme": "font point size scales",
+   "domain": "typography",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "10 pt",
+    "12 pt",
+    "14 pt"
+   ]
+  },
+  {
+   "theme": "rainbow light spectrum colors",
+   "domain": "optics",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "red",
+    "orange",
+    "yellow"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "sandpaper grit rating numbers",
+   "domain": "crafts",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "60 grit",
+    "120 grit",
+    "220 grit"
+   ]
+  },
+  {
+   "theme": "scoville heat units scale",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1000 SHU",
+    "5000 SHU",
+    "50000 SHU"
+   ]
+  },
+  {
+   "theme": "beef cooking doneness stages",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "rare",
+    "medium",
+    "well done"
+   ]
+  },
+  {
+   "theme": "baking oven gas mark numbers",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "Gas Mark 1",
+    "Gas Mark 4",
+    "Gas Mark 6"
+   ]
+  },
+  {
+   "theme": "marathon kilometer marker intervals",
+   "domain": "sport",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "5 km",
+    "10 km",
+    "15 km"
+   ]
+  },
+  {
+   "theme": "knitting needle sizing numbers",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "US 2",
+    "US 6",
+    "US 10"
+   ]
+  },
+  {
+   "theme": "nautical channel buoy numbers",
+   "domain": "navigation",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "buoy 1",
+    "buoy 2",
+    "buoy 3"
+   ]
+  },
+  {
+   "theme": "maritime vessel priority hierarchy",
+   "domain": "navigation",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "not under command",
+    "sailing vessel",
+    "power-driven vessel"
+   ]
+  },
+  {
+   "theme": "goldilocks porridge temperatures",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "too hot",
+    "too cold",
+    "just right"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "electrical wire gauge numbers",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "10 AWG",
+    "12 AWG",
+    "14 AWG"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "us military officer ranks",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "lieutenant",
+    "captain",
+    "major"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "basic counting numbers",
+   "domain": "math",
+   "generative": true,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "standard playing card ranks",
+   "domain": "games",
+   "generative": false,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2",
+    "3",
+    "4"
+   ]
+  },
+  {
+   "theme": "olympic podium medal ranks",
+   "domain": "sport",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st",
+    "2nd",
+    "3rd"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "traditional birthstone monthly order",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "garnet",
+    "amethyst",
+    "aquamarine"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "espresso coffee extraction seconds",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "20 s",
+    "25 s",
+    "30 s"
+   ]
+  },
+  {
+   "theme": "canonical hours daily order",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "matins",
+    "lauds",
+    "prime"
+   ]
+  },
+  {
+   "theme": "liturgical calendar season order",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "advent",
+    "christmas",
+    "lent"
+   ]
+  },
+  {
+   "theme": "plant hardiness zone numbers",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "zone 1",
+    "zone 2",
+    "zone 3"
+   ]
+  },
+  {
+   "theme": "iso paper size series",
+   "domain": "crafts",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "A3",
+    "A4",
+    "A5"
+   ]
+  },
+  {
+   "theme": "us federal sentencing offense levels",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "level 1",
+    "level 2",
+    "level 3"
+   ]
+  },
+  {
+   "theme": "decibel noise level scale",
+   "domain": "physics",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "30 dB",
+    "60 dB",
+    "90 dB"
+   ]
+  },
+  {
+   "theme": "usda beef quality grades",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Prime",
+    "Choice",
+    "Select"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "old macdonald farm animal order",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "chick",
+    "duck",
+    "turkey"
+   ]
+  },
+  {
+   "theme": "phases of the moon",
+   "domain": "astronomy",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "New Moon",
+    "First Quarter",
+    "Full Moon"
+   ]
+  },
+  {
+   "theme": "us presidential election years",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2016",
+    "2020",
+    "2024"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "architect scale ruler ratios",
+   "domain": "trades",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1:10",
+    "1:20",
+    "1:50"
+   ]
+  },
+  {
+   "theme": "baseball inning ordinal numbers",
+   "domain": "sport",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st",
+    "2nd",
+    "3rd"
+   ]
+  },
+  {
+   "theme": "shotgun gauge barrel diameters",
+   "domain": "trades",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "12 gauge",
+    "16 gauge",
+    "20 gauge"
+   ]
+  },
+  {
+   "theme": "olympic games host years",
+   "domain": "sport",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2012",
+    "2016",
+    "2020"
+   ]
+  },
+  {
+   "theme": "rubiks cube move notation",
+   "domain": "games",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "U",
+    "D",
+    "R"
+   ]
+  },
+  {
+   "theme": "nursery rhyme clock hours",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "one o'clock",
+    "two o'clock",
+    "three o'clock"
+   ]
+  },
+  {
+   "theme": "monopoly board tile prices",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "$60",
+    "$100",
+    "$120"
+   ]
+  },
+  {
+   "theme": "numbers from one to ten",
+   "domain": "math",
+   "generative": false,
+   "elementary": true,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "one",
+    "two",
+    "three"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "nautical knot speed increments",
+   "domain": "navigation",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 knot",
+    "2 knots",
+    "3 knots"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "french classical menu courses",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "hors d'oeuvre",
+    "potage",
+    "poisson"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "wool fiber micron grades",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "18 microns",
+    "19 microns",
+    "20 microns"
+   ]
+  },
+  {
+   "theme": "monarch regnal year designations",
+   "domain": "history",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st year",
+    "2nd year",
+    "3rd year"
+   ]
+  },
+  {
+   "theme": "folklore three wishes sequence",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": true,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "first wish",
+    "second wish",
+    "third wish"
+   ]
+  },
+  {
+   "theme": "lead pencil hardness grades",
+   "domain": "art",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2H",
+    "3H",
+    "4H"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "sheep shearing pattern steps",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "belly",
+    "crutch",
+    "long blow"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "quilt block grid dimensions",
+   "domain": "crafts",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "2x2",
+    "3x3",
+    "4x4"
+   ]
+  },
+  {
+   "theme": "common logarithm exponent powers",
+   "domain": "math",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1",
+    "2",
+    "3"
+   ]
+  },
+  {
+   "theme": "us state admission order",
+   "domain": "history",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "first",
+    "second",
+    "third"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "geological epoch chronological order",
+   "domain": "geology",
+   "generative": true,
+   "elementary": false,
+   "used": true,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Paleocene",
+    "Eocene",
+    "Oligocene"
+   ],
+   "uses": 1
+  },
+  {
+   "theme": "metric system prefix powers",
+   "domain": "math",
+   "generative": true,
+   "elementary": false,
+   "used": false,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "3",
+    "6",
+    "9"
+   ]
+  },
+  {
+   "theme": "hokey pokey body parts",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "uses": 1,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "right foot",
+    "left foot",
+    "head"
+   ],
+   "used": true
+  },
+  {
+   "theme": "itsy bitsy spider actions",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "climbed",
+    "washed",
+    "dried"
+   ]
+  },
+  {
+   "theme": "crayola crayon box counts",
+   "domain": "crafts",
+   "generative": false,
+   "elementary": true,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "8",
+    "24",
+    "64"
+   ]
+  },
+  {
+   "theme": "baking flour extraction percentages",
+   "domain": "cuisine",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "70%",
+    "80%",
+    "100%"
+   ],
+   "used": true
+  },
+  {
+   "theme": "chinese zodiac annual animals",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "rat",
+    "ox",
+    "tiger"
+   ]
+  },
+  {
+   "theme": "papal name regnal numbers",
+   "domain": "liturgy",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "I",
+    "II",
+    "III"
+   ]
+  },
+  {
+   "theme": "bbch scale plant growth stages",
+   "domain": "farming",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "stage 00",
+    "stage 10",
+    "stage 61"
+   ]
+  },
+  {
+   "theme": "degrees of murder severity",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "first degree",
+    "second degree",
+    "third degree"
+   ]
+  },
+  {
+   "theme": "dante inferno circle levels",
+   "domain": "folklore",
+   "generative": false,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st circle",
+    "2nd circle",
+    "3rd circle"
+   ],
+   "used": true
+  },
+  {
+   "theme": "liturgical year season sequence",
+   "domain": "liturgy",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Advent",
+    "Christmas",
+    "Lent"
+   ]
+  },
+  {
+   "theme": "marathon kilometer split distances",
+   "domain": "sport",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "5 km",
+    "10 km",
+    "15 km"
+   ]
+  },
+  {
+   "theme": "sheet metal gauge thicknesses",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "10 gauge",
+    "12 gauge",
+    "14 gauge"
+   ]
+  },
+  {
+   "theme": "copyright protection duration years",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "70 years",
+    "95 years",
+    "120 years"
+   ]
+  },
+  {
+   "theme": "patent term duration years",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "14 years",
+    "15 years",
+    "20 years"
+   ]
+  },
+  {
+   "theme": "bovine permanent teeth emergence",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1.5 years",
+    "2.5 years",
+    "3.5 years"
+   ],
+   "used": true
+  },
+  {
+   "theme": "crop rotation year order",
+   "domain": "farming",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "legumes",
+    "brassicas",
+    "root crops"
+   ],
+   "used": true
+  },
+  {
+   "theme": "shoe lace length inches",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "36 inches",
+    "45 inches",
+    "54 inches"
+   ]
+  },
+  {
+   "theme": "hungry caterpillar fruit sequence",
+   "domain": "rhymes",
+   "generative": false,
+   "elementary": true,
+   "uses": 1,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "apple",
+    "pear",
+    "plum"
+   ],
+   "used": true
+  },
+  {
+   "theme": "the four seasons order",
+   "domain": "nature",
+   "generative": false,
+   "elementary": true,
+   "uses": 1,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "spring",
+    "summer",
+    "autumn"
+   ],
+   "used": true
+  },
+  {
+   "theme": "olympic podium place medals",
+   "domain": "sport",
+   "generative": false,
+   "elementary": true,
+   "uses": 1,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "gold medal",
+    "silver medal",
+    "bronze medal"
+   ],
+   "used": true
+  },
+  {
+   "theme": "sandpaper grit mesh sizes",
+   "domain": "crafts",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "60 grit",
+    "120 grit",
+    "220 grit"
+   ]
+  },
+  {
+   "theme": "rebar steel size designations",
+   "domain": "trades",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "#3",
+    "#4",
+    "#5"
+   ]
+  },
+  {
+   "theme": "standard shoe size increments",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "8",
+    "8.5",
+    "9"
+   ]
+  },
+  {
+   "theme": "bill legislative passage stages",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "first reading",
+    "second reading",
+    "third reading"
+   ]
+  },
+  {
+   "theme": "us felony class levels",
+   "domain": "law",
+   "generative": false,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "Class A",
+    "Class B",
+    "Class C"
+   ],
+   "used": true
+  },
+  {
+   "theme": "hardiness zone temperature ranges",
+   "domain": "farming",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "-10 to 0 \u00b0F",
+    "0 to 10 \u00b0F",
+    "10 to 20 \u00b0F"
+   ]
+  },
+  {
+   "theme": "fujita tornado intensity ratings",
+   "domain": "meteorology",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "F0",
+    "F1",
+    "F2"
+   ]
+  },
+  {
+   "theme": "fibonacci sequence number order",
+   "domain": "mathematics",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1st",
+    "2nd",
+    "3rd"
+   ]
+  },
+  {
+   "theme": "ph scale acidity values",
+   "domain": "chemistry",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "pH 2",
+    "pH 7",
+    "pH 10"
+   ]
+  },
+  {
+   "theme": "metronome tempo bpm values",
+   "domain": "music",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-05",
+   "terms_are": "numbers",
+   "members_seen": [
+    "60 bpm",
+    "120 bpm",
+    "140 bpm"
+   ]
+  },
+  {
+   "theme": "standard battery size letters",
+   "domain": "hardware",
+   "generative": false,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-05",
+   "terms_are": "words",
+   "members_seen": [
+    "AA",
+    "AAA",
+    "C"
+   ],
+   "used": true
+  },
+  {
+   "theme": "opening of moby dick",
+   "domain": "literature",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Call",
+    "me",
+    "Ishmael"
+   ]
+  },
+  {
+   "theme": "opening of pride and prejudice",
+   "domain": "fiction",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "It",
+    "is",
+    "a"
+   ]
+  },
+  {
+   "theme": "opening of a christmas carol",
+   "domain": "novels",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Marley",
+    "was",
+    "dead"
+   ],
+   "used": true
+  },
+  {
+   "theme": "the gettysburg address",
+   "domain": "speeches",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Four",
+    "score",
+    "and"
+   ],
+   "used": true
+  },
+  {
+   "theme": "the declaration of independence",
+   "domain": "history",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "When",
+    "in",
+    "the"
+   ],
+   "used": true
+  },
+  {
+   "theme": "the lord's prayer",
+   "domain": "liturgy",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Our",
+    "Father",
+    "who"
+   ]
+  },
+  {
+   "theme": "the twenty third psalm",
+   "domain": "scripture",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "The",
+    "Lord",
+    "is"
+   ],
+   "used": true
+  },
+  {
+   "theme": "the hymn amazing grace",
+   "domain": "hymns",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Amazing",
+    "grace",
+    "how"
+   ]
+  },
+  {
+   "theme": "to be or not to be",
+   "domain": "drama",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "To",
+    "be",
+    "or"
+   ]
+  },
+  {
+   "theme": "paul revere's ride poem opening",
+   "domain": "poetry",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Listen",
+    "my",
+    "children"
+   ]
+  },
+  {
+   "theme": "opening stanzas of the raven",
+   "domain": "verse",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Once",
+    "upon",
+    "a"
+   ],
+   "used": true
+  },
+  {
+   "theme": "jack and jill rhyme",
+   "domain": "folklore",
+   "generative": true,
+   "elementary": true,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Jack",
+    "and",
+    "Jill"
+   ],
+   "used": true
+  },
+  {
+   "theme": "baa baa black sheep rhyme",
+   "domain": "rhymes",
+   "generative": true,
+   "elementary": true,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Baa",
+    "baa",
+    "black"
+   ]
+  },
+  {
+   "theme": "humpty dumpty nursery rhyme",
+   "domain": "children",
+   "generative": false,
+   "elementary": true,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Humpty",
+    "Dumpty",
+    "sat"
+   ]
+  },
+  {
+   "theme": "the owl and the pussycat",
+   "domain": "limericks",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "The",
+    "Owl",
+    "and"
+   ]
+  },
+  {
+   "theme": "planets order from the sun",
+   "domain": "astronomy",
+   "generative": false,
+   "elementary": true,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Mercury",
+    "Venus",
+    "Earth"
+   ],
+   "used": true
+  },
+  {
+   "theme": "nautical signal flag meanings",
+   "domain": "navigation",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "diver down",
+    "affirmative",
+    "stop"
+   ]
+  },
+  {
+   "theme": "wood chisel width sizes",
+   "domain": "woodworking",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1/4 in",
+    "1/2 in",
+    "3/4 in"
+   ]
+  },
+  {
+   "theme": "metric bolt thread sizes",
+   "domain": "engineering",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "numbers",
+   "members_seen": [
+    "M6",
+    "M8",
+    "M10"
+   ],
+   "used": true
+  },
+  {
+   "theme": "archery target score rings",
+   "domain": "sport",
+   "generative": false,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "numbers",
+   "members_seen": [
+    "10",
+    "9",
+    "8"
+   ],
+   "used": true
+  },
+  {
+   "theme": "meat doneness temperature levels",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "numbers",
+   "members_seen": [
+    "125 \u00b0F",
+    "135 \u00b0F",
+    "145 \u00b0F"
+   ]
+  },
+  {
+   "theme": "opening of alice in wonderland",
+   "domain": "fiction",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Alice",
+    "was",
+    "beginning"
+   ]
+  },
+  {
+   "theme": "first verse of jabberwocky",
+   "domain": "poetry",
+   "generative": false,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Twas",
+    "brillig",
+    "and"
+   ],
+   "used": true
+  },
+  {
+   "theme": "the poem ozymandias",
+   "domain": "poetry",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "I",
+    "met",
+    "a"
+   ]
+  },
+  {
+   "theme": "charge of the light brigade",
+   "domain": "poetry",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Half",
+    "a",
+    "league"
+   ]
+  },
+  {
+   "theme": "hymn rock of ages",
+   "domain": "liturgy",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Rock",
+    "of",
+    "Ages"
+   ]
+  },
+  {
+   "theme": "hymn abide with me",
+   "domain": "liturgy",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Abide",
+    "with",
+    "me"
+   ]
+  },
+  {
+   "theme": "us constitution preamble",
+   "domain": "law",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "We",
+    "the",
+    "People"
+   ],
+   "used": true
+  },
+  {
+   "theme": "prologue to canterbury tales",
+   "domain": "classics",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Whan",
+    "that",
+    "Aprille"
+   ],
+   "used": true
+  },
+  {
+   "theme": "the st crispin day speech",
+   "domain": "drama",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "What's",
+    "he",
+    "that"
+   ]
+  },
+  {
+   "theme": "first verse of the raven",
+   "domain": "gothic",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Once",
+    "upon",
+    "a"
+   ]
+  },
+  {
+   "theme": "standard monopoly property board values",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "numbers",
+   "members_seen": [
+    "$60",
+    "$100",
+    "$200"
+   ]
+  },
+  {
+   "theme": "primal cuts of beef order",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "chuck",
+    "rib",
+    "loin"
+   ]
+  },
+  {
+   "theme": "espresso coffee shot volumes",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "numbers",
+   "members_seen": [
+    "30 ml",
+    "60 ml",
+    "90 ml"
+   ]
+  },
+  {
+   "theme": "blacksmith iron heating color stages",
+   "domain": "trades",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "faint red",
+    "cherry red",
+    "yellow"
+   ]
+  },
+  {
+   "theme": "soil horizon layers top down",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "O horizon",
+    "A horizon",
+    "B horizon"
+   ]
+  },
+  {
+   "theme": "chicken egg weight size classes",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Medium",
+    "Large",
+    "Extra Large"
+   ]
+  },
+  {
+   "theme": "embroidery thread strand count sizes",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 strand",
+    "2 strands",
+    "6 strands"
+   ]
+  },
+  {
+   "theme": "tailor tape measure inch markings",
+   "domain": "textiles",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "numbers",
+   "members_seen": [
+    "1 inch",
+    "2 inches",
+    "3 inches"
+   ]
+  },
+  {
+   "theme": "karate belt rank progression",
+   "domain": "sport",
+   "generative": false,
+   "elementary": true,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "white belt",
+    "yellow belt",
+    "black belt"
+   ]
+  },
+  {
+   "theme": "the poem the raven",
+   "domain": "poetry",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Once upon a midnight dre",
+    "While I pondered, weak a",
+    "Over many a quaint and c"
+   ],
+   "used": true
+  },
+  {
+   "theme": "rime of the ancient mariner",
+   "domain": "poetry",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "It is an ancient Mariner",
+    "And he stoppeth one of t",
+    "By thy long grey beard a"
+   ]
+  },
+  {
+   "theme": "the opening of hamlet",
+   "domain": "drama",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Who's there?",
+    "Nay, answer me",
+    "Stand, and unfold yourse"
+   ],
+   "used": true
+  },
+  {
+   "theme": "the nursery rhyme simple simon",
+   "domain": "children",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Simple Simon met a piema",
+    "Going to the fair",
+    "Says Simple Simon to the"
+   ]
+  },
+  {
+   "theme": "united states pledge of allegiance",
+   "domain": "civics",
+   "generative": true,
+   "elementary": true,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "I pledge allegiance to t",
+    "of the United States of ",
+    "and to the Republic for "
+   ],
+   "used": true
+  },
+  {
+   "theme": "george washington farewell address",
+   "domain": "politics",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Friends and Citizens",
+    "The period for a new ele",
+    "appears not to be distan"
+   ]
+  },
+  {
+   "theme": "the mayflower compact opening",
+   "domain": "history",
+   "generative": true,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "In the name of God, Amen",
+    "We whose names are under",
+    "the loyal subjects of ou"
+   ],
+   "used": true
+  },
+  {
+   "theme": "poker hand ranking order",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "royal flush",
+    "straight flush",
+    "four of a kind"
+   ]
+  },
+  {
+   "theme": "blacksmith iron heat colors",
+   "domain": "trades",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "faint red",
+    "cherry red",
+    "bright yellow"
+   ]
+  },
+  {
+   "theme": "primal cuts of pork",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "uses": 1,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "boston butt",
+    "loin",
+    "belly"
+   ],
+   "used": true
+  },
+  {
+   "theme": "sourdough bread baking stages",
+   "domain": "cuisine",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "autolyse",
+    "bulk fermentation",
+    "proofing"
+   ]
+  },
+  {
+   "theme": "boy scout rank order",
+   "domain": "organization",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Tenderfoot",
+    "Star",
+    "Life"
+   ]
+  },
+  {
+   "theme": "metric screw thread pitch sizes",
+   "domain": "engineering",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "numbers",
+   "members_seen": [
+    "0.5 mm",
+    "0.75 mm",
+    "1.0 mm"
+   ]
+  },
+  {
+   "theme": "solf\u00e8ge pitch syllable order",
+   "domain": "music",
+   "generative": false,
+   "elementary": true,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "do",
+    "re",
+    "mi"
+   ]
+  },
+  {
+   "theme": "poker hand rankings",
+   "domain": "games",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "royal flush",
+    "straight flush",
+    "four of a kind"
+   ]
+  },
+  {
+   "theme": "standard egg weight classes",
+   "domain": "farming",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "jumbo",
+    "extra large",
+    "large"
+   ]
+  },
+  {
+   "theme": "crochet hook size letters",
+   "domain": "crafts",
+   "generative": false,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "B",
+    "C",
+    "D"
+   ]
+  },
+  {
+   "theme": "opening stanzas of jabberwocky",
+   "domain": "poetry",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "'Twas brillig, and the s",
+    "'Beware the Jabberwock, ",
+    "He took his vorpal sword"
+   ]
+  },
+  {
+   "theme": "macbeth tomorrow and tomorrow speech",
+   "domain": "drama",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "Tomorrow, and tomorrow, ",
+    "Creeps in this petty pac",
+    "To the last syllable of "
+   ]
+  },
+  {
+   "theme": "tale of two cities opening",
+   "domain": "literature",
+   "generative": true,
+   "elementary": false,
+   "uses": 0,
+   "added": "2026-09-06",
+   "terms_are": "words",
+   "members_seen": [
+    "It was the best of times",
+    "it was the worst of time",
+    "it was the age of wisdom"
+   ]
+  }
+ ]
+}

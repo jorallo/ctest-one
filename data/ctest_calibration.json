@@ -1,0 +1,477 @@
+{
+ "_README": "Constants describing each reference machine. `reference` is measured on the fixed probes in Ctest-Calibrator and belongs to the machine. `fitted` is measured by the unquestionability pass while pricing a battery and belongs to that battery, so it is kept per battery. `pooled` is what the generator reads: the conservative end across machines, an efficiency device and not part of any definition. The calibrator EXTENDS this file from v1.3.0 on, adding or updating one machine and leaving the others alone, so no copy has to be kept before a run. CALIB_REMEASURE decides only whether an existing block for the machine being measured is overwritten.",
+ "machines": {
+  "Qwen/Qwen3-14B": {
+   "reference": {
+    "bits_per_char": 1.57,
+    "bits_per_char_p80": 2.206,
+    "bits_per_char_range": [
+     0.91,
+     2.74
+    ],
+    "clause_bits": 20.6,
+    "clause_median": 44.9,
+    "delta_true": 20.6,
+    "beta_by_sequence": {
+     "counting": {
+      "beta": 0.55,
+      "c0": 71.7,
+      "r2": 0.945
+     },
+     "weekdays": {
+      "beta": 0.33,
+      "c0": 84.6,
+      "r2": 0.923
+     },
+     "squares": {
+      "beta": 0.28,
+      "c0": 80.7,
+      "r2": 0.368
+     },
+     "with-units": {
+      "beta": 0.18,
+      "c0": 102.1,
+      "r2": 0.242
+     },
+     "elem-symbol": {
+      "beta": 1.1,
+      "c0": 108.9,
+      "r2": 0.864
+     },
+     "elem-name": {
+      "beta": 0.8,
+      "c0": 87.7,
+      "r2": 0.301
+     },
+     "country": {
+      "beta": 6.54,
+      "c0": 82.3,
+      "r2": 0.962
+     },
+     "elem+unit": {
+      "beta": 1.67,
+      "c0": 133.4,
+      "r2": 0.832
+     },
+     "two-table": {
+      "beta": 10.62,
+      "c0": 186.4,
+      "r2": 0.912
+     }
+    },
+    "beta_listing": 4.11,
+    "beta_low": 1.1,
+    "beta_high": 10.62,
+    "c0_listing": 121.2,
+    "wrapper_bits": 65.7,
+    "n_probes": 379,
+    "machine": "Qwen/Qwen3-14B",
+    "four_bit": true,
+    "probes": "fixed-v2",
+    "measured_by": "Ctest-Calibrator-v1.3.0",
+    "measured_on": "2026-09-08T06:46"
+   }
+  },
+  "Qwen/Qwen3-8B": {
+   "machine": "Qwen/Qwen3-8B",
+   "machine_tag": "qwen3-8b",
+   "bits_per_char": 1.96,
+   "bits_per_char_p80": 2.42,
+   "bits_per_char_range": [
+    0.81,
+    2.72
+   ],
+   "beta_listing": 3.4,
+   "beta_gate": 6.43,
+   "c0_listing": 135.2,
+   "clause_bits": 38.3,
+   "delta": 13.3,
+   "delta_margin": 25.0,
+   "n_items": 18,
+   "n_beta_fits": 13,
+   "measured_by": "Ctest-Unquestionability-v1.6.5",
+   "measured_on": "2026-09-05T10:28",
+   "reference": {
+    "bits_per_char": 1.647,
+    "bits_per_char_p80": 2.189,
+    "bits_per_char_range": [
+     1.12,
+     3.39
+    ],
+    "clause_bits": 22.7,
+    "clause_median": 46.8,
+    "delta_true": 22.7,
+    "beta_by_sequence": {
+     "counting": {
+      "beta": 0.5,
+      "c0": 66.4,
+      "r2": 0.835
+     },
+     "weekdays": {
+      "beta": 0.49,
+      "c0": 87.5,
+      "r2": 0.455
+     },
+     "squares": {
+      "beta": 0.35,
+      "c0": 77.5,
+      "r2": 0.757
+     },
+     "with-units": {
+      "beta": 0.27,
+      "c0": 104.7,
+      "r2": 0.652
+     },
+     "elem-symbol": {
+      "beta": 0.51,
+      "c0": 125.8,
+      "r2": 0.264
+     },
+     "elem-name": {
+      "beta": 0.23,
+      "c0": 110.1,
+      "r2": 0.034
+     },
+     "country": {
+      "beta": 6.02,
+      "c0": 97.9,
+      "r2": 0.964
+     },
+     "elem+unit": {
+      "beta": 1.57,
+      "c0": 140.8,
+      "r2": 0.693
+     },
+     "two-table": {
+      "beta": 17.72,
+      "c0": 161.3,
+      "r2": 0.977
+     }
+    },
+    "beta_listing": 11.87,
+    "beta_low": 6.02,
+    "beta_high": 17.72,
+    "c0_listing": 129.6,
+    "wrapper_bits": 76.6,
+    "n_probes": 379,
+    "machine": "Qwen/Qwen3-8B",
+    "four_bit": true,
+    "probes": "fixed-v2",
+    "measured_by": "Ctest-Calibrator-v1.1.1",
+    "measured_on": "2026-09-05T12:20"
+   }
+  },
+  "google/gemma-3-4b-it": {
+   "reference": {
+    "bits_per_char": 2.516,
+    "bits_per_char_p80": 3.308,
+    "bits_per_char_range": [
+     1.38,
+     7.12
+    ],
+    "clause_bits": 22.3,
+    "clause_median": 50.2,
+    "delta_true": 22.3,
+    "beta_by_sequence": {
+     "counting": {
+      "beta": 0.28,
+      "c0": 94.0,
+      "r2": 0.45
+     },
+     "weekdays": {
+      "beta": 0.52,
+      "c0": 120.4,
+      "r2": 0.813
+     },
+     "squares": {
+      "beta": 0.71,
+      "c0": 111.4,
+      "r2": 0.699
+     },
+     "with-units": {
+      "beta": 0.31,
+      "c0": 128.6,
+      "r2": 0.474
+     },
+     "elem-symbol": {
+      "beta": 3.36,
+      "c0": 149.3,
+      "r2": 0.96
+     },
+     "elem-name": {
+      "beta": 0.49,
+      "c0": 142.2,
+      "r2": 0.176
+     },
+     "country": {
+      "beta": 6.27,
+      "c0": 136.6,
+      "r2": 0.962
+     },
+     "elem+unit": {
+      "beta": 5.9,
+      "c0": 170.0,
+      "r2": 0.963
+     },
+     "two-table": {
+      "beta": 22.34,
+      "c0": 189.8,
+      "r2": 0.992
+     }
+    },
+    "beta_listing": 6.08,
+    "beta_low": 3.36,
+    "beta_high": 22.34,
+    "c0_listing": 159.6,
+    "wrapper_bits": 112.1,
+    "n_probes": 379,
+    "machine": "google/gemma-3-4b-it",
+    "four_bit": true,
+    "probes": "fixed-v2",
+    "measured_by": "Ctest-Calibrator-v1.1.1",
+    "measured_on": "2026-09-05T12:26"
+   }
+  },
+  "allenai/OLMo-2-1124-7B-Instruct": {
+   "reference": {
+    "bits_per_char": 1.991,
+    "bits_per_char_p80": 2.424,
+    "bits_per_char_range": [
+     1.17,
+     4.37
+    ],
+    "clause_bits": 18.7,
+    "clause_median": 54.4,
+    "delta_true": 18.7,
+    "beta_by_sequence": {
+     "counting": {
+      "beta": 1.11,
+      "c0": 80.1,
+      "r2": 0.927
+     },
+     "weekdays": {
+      "beta": 1.7,
+      "c0": 96.5,
+      "r2": 0.955
+     },
+     "squares": {
+      "beta": 0.72,
+      "c0": 96.7,
+      "r2": 0.889
+     },
+     "with-units": {
+      "beta": 0.99,
+      "c0": 115.1,
+      "r2": 0.925
+     },
+     "elem-symbol": {
+      "beta": 11.09,
+      "c0": 88.4,
+      "r2": 0.998
+     },
+     "elem-name": {
+      "beta": 0.62,
+      "c0": 109.8,
+      "r2": 0.456
+     },
+     "country": {
+      "beta": 5.95,
+      "c0": 100.3,
+      "r2": 0.972
+     },
+     "elem+unit": {
+      "beta": 9.06,
+      "c0": 138.2,
+      "r2": 0.997
+     },
+     "two-table": {
+      "beta": 23.53,
+      "c0": 161.5,
+      "r2": 0.985
+     }
+    },
+    "beta_listing": 10.07,
+    "beta_low": 5.95,
+    "beta_high": 23.53,
+    "c0_listing": 119.2,
+    "wrapper_bits": 78.1,
+    "n_probes": 379,
+    "machine": "allenai/OLMo-2-1124-7B-Instruct",
+    "four_bit": true,
+    "probes": "fixed-v2",
+    "measured_by": "Ctest-Calibrator-v1.1.1",
+    "measured_on": "2026-09-05T12:29"
+   }
+  },
+  "meta-llama/Llama-3.1-8B-Instruct": {
+   "reference": {
+    "bits_per_char": 1.402,
+    "bits_per_char_p80": 2.041,
+    "bits_per_char_range": [
+     0.97,
+     3.48
+    ],
+    "clause_bits": 17.1,
+    "clause_median": 45.8,
+    "delta_true": 17.1,
+    "beta_by_sequence": {
+     "counting": {
+      "beta": 0.27,
+      "c0": 66.2,
+      "r2": 0.825
+     },
+     "weekdays": {
+      "beta": 0.65,
+      "c0": 80.1,
+      "r2": 0.798
+     },
+     "squares": {
+      "beta": 0.53,
+      "c0": 73.0,
+      "r2": 0.927
+     },
+     "with-units": {
+      "beta": 0.49,
+      "c0": 103.0,
+      "r2": 0.831
+     },
+     "elem-symbol": {
+      "beta": 2.46,
+      "c0": 116.6,
+      "r2": 0.811
+     },
+     "elem-name": {
+      "beta": 0.98,
+      "c0": 75.3,
+      "r2": 0.904
+     },
+     "country": {
+      "beta": 4.92,
+      "c0": 78.5,
+      "r2": 0.984
+     },
+     "elem+unit": {
+      "beta": 4.88,
+      "c0": 146.0,
+      "r2": 0.924
+     },
+     "two-table": {
+      "beta": 17.37,
+      "c0": 154.8,
+      "r2": 0.976
+     }
+    },
+    "beta_listing": 4.88,
+    "beta_low": 0.98,
+    "beta_high": 17.37,
+    "c0_listing": 116.6,
+    "wrapper_bits": 66.4,
+    "n_probes": 379,
+    "machine": "meta-llama/Llama-3.1-8B-Instruct",
+    "four_bit": true,
+    "probes": "fixed-v2",
+    "measured_by": "Ctest-Calibrator-v1.1.1",
+    "measured_on": "2026-09-05T12:24"
+   }
+  },
+  "microsoft/Phi-4-reasoning": {
+   "reference": {
+    "bits_per_char": 1.789,
+    "bits_per_char_p80": 2.159,
+    "bits_per_char_range": [
+     1.01,
+     3.64
+    ],
+    "clause_bits": 16.3,
+    "clause_median": 43.3,
+    "delta_true": 16.3,
+    "beta_by_sequence": {
+     "counting": {
+      "beta": 0.46,
+      "c0": 62.8,
+      "r2": 0.934
+     },
+     "weekdays": {
+      "beta": 0.54,
+      "c0": 86.7,
+      "r2": 0.873
+     },
+     "squares": {
+      "beta": 0.46,
+      "c0": 71.0,
+      "r2": 0.692
+     },
+     "with-units": {
+      "beta": 0.3,
+      "c0": 95.1,
+      "r2": 0.743
+     },
+     "elem-symbol": {
+      "beta": 0.51,
+      "c0": 113.6,
+      "r2": 0.315
+     },
+     "elem-name": {
+      "beta": 0.68,
+      "c0": 82.3,
+      "r2": 0.535
+     },
+     "country": {
+      "beta": 3.55,
+      "c0": 101.2,
+      "r2": 0.954
+     },
+     "elem+unit": {
+      "beta": 0.36,
+      "c0": 137.7,
+      "r2": 0.234
+     },
+     "two-table": {
+      "beta": 16.3,
+      "c0": 158.4,
+      "r2": 0.971
+     }
+    },
+    "beta_listing": 9.93,
+    "beta_low": 3.55,
+    "beta_high": 16.3,
+    "c0_listing": 129.8,
+    "wrapper_bits": 71.0,
+    "n_probes": 379,
+    "machine": "microsoft/Phi-4-reasoning",
+    "four_bit": true,
+    "probes": "fixed-v2",
+    "measured_by": "Ctest-Calibrator-v1.3.0",
+    "measured_on": "2026-09-18T10:25"
+   }
+  }
+ },
+ "pooled": {
+  "bits_per_char": 2.21,
+  "beta_listing": 4.11,
+  "beta_gate": 10.62,
+  "c0_listing": 121.2,
+  "delta_gen": 20.6,
+  "machines": [
+   "Qwen/Qwen3-14B"
+  ],
+  "probes": "fixed-v2",
+  "measured_on": "2026-09-08T06:46",
+  "_note": "written by the calibration run that covered Qwen3-14B alone. The battery was generated under pooled_before."
+ },
+ "pooled_before": {
+  "bits_per_char": 3.31,
+  "beta_listing": 0.98,
+  "c0_listing": 116.6,
+  "delta_gen": 22.7,
+  "machines": [
+   "Qwen/Qwen3-8B",
+   "allenai/OLMo-2-1124-7B-Instruct",
+   "google/gemma-3-4b-it",
+   "meta-llama/Llama-3.1-8B-Instruct"
+  ],
+  "probes": "fixed-v2",
+  "measured_on": "2026-09-05T12:29",
+  "_note": "what the generator read while the v17 battery was built."
+ }
+}

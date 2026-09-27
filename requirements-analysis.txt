@@ -1,0 +1,5 @@
+# Enough to reproduce the paper's tables, figures and statistics from the released data.
+numpy
+scipy
+matplotlib
+jupyterlab

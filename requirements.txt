@@ -1,0 +1,12 @@
+# Everything needed to run the whole pipeline.
+-r requirements-analysis.txt
+python-dotenv
+google-genai
+openai
+anthropic
+huggingface_hub
+torch
+transformers
+accelerate
+# 4-bit loading of the reference machines; needs an NVIDIA GPU with CUDA.
+bitsandbytes
